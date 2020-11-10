@@ -1,0 +1,4 @@
+/.vscode
+/**/*.js
+/**/*.wasm
+!/**/Ives_*.js
